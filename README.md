@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on anything available to me
-- 📫 How to reach me @jon.hernandez138@gmail.com
+- 📫 How to reach me jon.hernandez138@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
