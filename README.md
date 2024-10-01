@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything available to me
 - 📫 How to reach me jon.hernandez138@gmail.com
 - 😄 Pronouns: He/Him
-- 💻 Languages: C/C++, Java
+- 💻 Languages: C/C++, Java, SQL, Python
 
 <!---
 JonHern/JonHern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
