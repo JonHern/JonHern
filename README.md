@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Hernandez
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning Machine Organization
+- 🌱 I’m currently learning Software and Computer Design
 - 💞️ I’m looking to collaborate on anything available to me
 - 📫 How to reach me jon.hernandez138@gmail.com
 - 😄 Pronouns: He/Him
